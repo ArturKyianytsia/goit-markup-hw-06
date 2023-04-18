@@ -790,6 +790,12 @@ padding: 32px 16px;
 
 .modal-label {
     display: block;
+    margin-bottom: 8px;
+}
+
+.modal-label-textarea {
+    display: block;
+    margin-bottom: 16px;
 }
 
 .modal-label-text-name{
@@ -813,7 +819,6 @@ padding: 32px 16px;
 .input-wrap {
     position: relative;
     display: block;
-    margin-bottom: 8px;
     margin-top: 4px;
 }
 
@@ -824,7 +829,6 @@ padding: 32px 16px;
 .input-wrap-textarea {
     position: relative;
     display: block;
-    margin-bottom: 16px;
     margin-top: 4px;
     height: 120px ;
 }
